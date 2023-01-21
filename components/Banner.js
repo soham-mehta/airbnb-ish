@@ -5,7 +5,7 @@ export default function Banner() {
   return (
     <BannerSection>
       <span>
-        <h2>Not sure where to go? Perfect.</h2>
+        <h2>Not sure where to store your belongings? Perfect.</h2>
         <a href="#" className="btn btn-dark">
           {"I'm flexible"}
         </a>
