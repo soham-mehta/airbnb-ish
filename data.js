@@ -1,5 +1,5 @@
 export const discover = {
-  title: "Discover things to do",
+  title: "Discover things to doooooo",
   items: [
     {
       title: "Featured collection: Wanderlust",
